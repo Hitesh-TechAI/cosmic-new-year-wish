@@ -161,7 +161,7 @@ const HeroSection = ({ friendName }: HeroSectionProps) => {
           transition={{ duration: 1, delay: 0.5 }}
           className="mt-8 text-lg sm:text-xl text-muted-foreground font-body max-w-2xl mx-auto"
         >
-          A celebration of friendship, memories, and the beautiful journey ahead
+          A celebration of Love, sweet memories, and out beautiful journey ahead TOGETHER!!!!
         </motion.p>
 
         {/* Scroll indicator */}
