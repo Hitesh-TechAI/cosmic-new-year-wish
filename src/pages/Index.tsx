@@ -10,7 +10,7 @@ import FutureSection from '@/components/FutureSection';
 
 const Index = () => {
   const [isLoading, setIsLoading] = useState(true);
-  const friendName = "Dear Friend"; // Customize this name
+  const friendName = "My Cutest sonajiii"; // Customize this name
 
   return (
     <>
@@ -60,7 +60,7 @@ const Index = () => {
                 ))}
               </div>
               <p className="text-muted-foreground text-sm">
-                Made with ✨ for a special person
+                Made with Love by Love for Sona
               </p>
             </footer>
           </div>

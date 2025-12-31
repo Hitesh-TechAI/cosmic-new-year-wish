@@ -173,11 +173,15 @@ const TimeSection = () => {
           className="space-y-6"
         >
           <p className="font-display text-2xl sm:text-3xl text-foreground">
-            Every ending is a new beginning
+          What closed behind us became the doorway where we started.
           </p>
           <p className="font-body text-lg text-muted-foreground max-w-2xl mx-auto">
-            As the old year fades into memory, a new chapter awaits—full of possibilities, 
-            adventures, and moments yet to be discovered.
+          “As the old year settles into memory,
+we step forward hand in hand,
+into a chapter still unwritten—
+shaped by our laughter,
+strengthened by our love,
+and alive with all that’s waiting for us.”
           </p>
         </motion.div>
 
