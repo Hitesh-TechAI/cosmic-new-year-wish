@@ -88,7 +88,7 @@ const FutureSection = () => {
           transition={{ duration: 1.2, delay: 0.2 }}
           className="font-display text-4xl sm:text-5xl md:text-7xl text-foreground mb-8"
         >
-          Here's to an <span className="gradient-text-gold text-glow-gold">extraordinary</span> year ahead
+          Let's walk together with  <span className="gradient-text-gold text-glow-gold">OUR LOVE</span> a year ahead
         </motion.h2>
 
         {/* Hopes grid */}

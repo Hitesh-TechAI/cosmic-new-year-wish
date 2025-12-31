@@ -16,9 +16,10 @@ const WishSection = () => {
 
   const wishLines = [
     "As the clock strikes midnight,",
-    "may this new year bring you",
-    "endless joy, boundless success,",
-    "and all the dreams you dare to dream.",
+    "may this new year bring us endless joy and quiet strength,",
+    "your love that held me steady,",
+    "my love that never left you,",
+    "and all the dreams we’ll dare to chase together."
   ];
 
   return (

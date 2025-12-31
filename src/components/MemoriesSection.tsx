@@ -21,13 +21,14 @@ const MemoriesSection = () => {
   const parallax3 = useTransform(scrollYProgress, [0, 1], [30, -30]);
 
   const memories: MemoryCard[] = [
-    { id: 1, text: "Every laugh we shared", color: 'gold' },
-    { id: 2, text: "The adventures we took", color: 'cyan' },
-    { id: 3, text: "Late night conversations", color: 'rose' },
-    { id: 4, text: "Your unwavering support", color: 'purple' },
-    { id: 5, text: "Moments of pure joy", color: 'gold' },
-    { id: 6, text: "The memories we made", color: 'cyan' },
+    { id: 1, text: "The happiness we shared in the smallest moments", color: "gold" },
+    { id: 2, text: "Our fights — the little KALESH that still chose love", color: "rose" },
+    { id: 3, text: "The times we cried and held each other through it", color: "purple" },
+    { id: 4, text: "Moments we met secretly, just you and me against the world", color: "cyan" },
+    { id: 5, text: "The amazing noon and eves, when love crossed limits", color: "gold" },
+    { id: 6, text: "Late-night talks and songs that became ours", color: "cyan" },
   ];
+  
 
   const getColorClasses = (color: string) => {
     switch (color) {

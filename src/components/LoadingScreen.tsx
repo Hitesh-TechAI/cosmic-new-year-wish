@@ -83,7 +83,7 @@ const LoadingScreen = ({ onComplete }: LoadingScreenProps) => {
         transition={{ delay: 0.3 }}
         className="font-display text-xl text-foreground mb-8"
       >
-        Preparing something special...
+        Waittttt....Preparing something special...
       </motion.p>
 
       {/* Progress bar */}
