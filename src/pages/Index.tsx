@@ -10,7 +10,7 @@ import FutureSection from '@/components/FutureSection';
 
 const Index = () => {
   const [isLoading, setIsLoading] = useState(true);
-  const friendName = "Dear Friend"; // Customize this name
+  const friendName = "My Sonajiiiiiii"; // Customize this name
 
   return (
     <>
