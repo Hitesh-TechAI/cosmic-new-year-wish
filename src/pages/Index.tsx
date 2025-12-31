@@ -60,7 +60,7 @@ const Index = () => {
                 ))}
               </div>
               <p className="text-muted-foreground text-sm">
-                Made with ✨ for a special person
+                Made with love by love for sonaajiiii....
               </p>
             </footer>
           </div>
