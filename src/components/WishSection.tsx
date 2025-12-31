@@ -15,11 +15,12 @@ const WishSection = () => {
   const textOpacity = useTransform(scrollYProgress, [0.2, 0.4, 0.6, 0.8], [0, 1, 1, 0]);
 
   const wishLines = [
-    "As the clock strikes midnight,",
-    "may this new year bring you",
-    "endless joy, boundless success,",
-    "and all the dreams you dare to dream.",
-  ];
+  "As the clock strikes midnight,",
+  "may this new year bring us endless joy and quiet strength,",
+  "your love that held me steady,",
+  "my love that never left you,",
+  "and all the dreams we’ll dare to chase together."
+];
 
   return (
     <section 
