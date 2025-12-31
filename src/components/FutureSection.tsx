@@ -15,10 +15,11 @@ const FutureSection = () => {
   const opacity = useTransform(scrollYProgress, [0, 0.3, 0.7, 1], [0, 1, 1, 0]);
 
   const hopes = [
-    { icon: "✨", text: "May your dreams take flight" },
-    { icon: "💫", text: "May success follow your every step" },
-    { icon: "🌟", text: "May happiness fill your days" },
-    { icon: "⭐", text: "May love surround you always" },
+    { icon: "✨", text: "You made my year brighter just by being in it" },
+{ icon: "💫", text: "Every smile of yours turned ordinary days into something special" },
+{ icon: "🌟", text: "With you, even my hardest moments felt lighter" },
+{ icon: "⭐", text: "You matter to me more than I ever learned to say out loud" },
+{ icon: "💖", text: "Thank you for existing, for choosing me, for making this year beautiful" }
   ];
 
   return (
@@ -74,7 +75,7 @@ const FutureSection = () => {
         >
           <span className="inline-flex items-center gap-3 text-secondary text-sm tracking-[0.3em] uppercase font-body">
             <span className="w-8 h-px bg-secondary" />
-            The Future Awaits
+            Our Future Together
             <span className="w-8 h-px bg-secondary" />
           </span>
         </motion.div>
@@ -141,8 +142,8 @@ const FutureSection = () => {
           className="mt-16"
         >
           <p className="font-body text-lg text-muted-foreground mb-8 max-w-2xl mx-auto">
-            May 2025 bring you everything your heart desires and more. 
-            Thank you for being an incredible friend.
+            Walking in the year 2026 with you the same love for you as always. 
+            Thank you for bearing me one more year.
           </p>
 
           {/* Signature area */}
